@@ -2,8 +2,8 @@
 
 A DQN agent trained for the CartPort game in the OpenAI gym environment. See the game [here](https://gymnasium.farama.org/environments/classic_control/cart_pole/).
 
-![Play](images/play.gif)
-![Returns](images/DQN_Returns.png)
+![Play](image/play.gif)
+![Returns](image/DQN_Returns.png)
 
 ## What's included
 

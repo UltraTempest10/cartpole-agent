@@ -25,7 +25,7 @@ epsilon = 1.0  # greedy factor
 epsilon_min = 0.01  # minimum epsilon
 epsilon_decay = 0.999  # decay rate of epsilon
 target_update = 200  # update frequency of the target network
-path = 'models/your_model.pth'
+path = 'model/your_model.pth'
 
 return_list = []  # record the return of each episode
 

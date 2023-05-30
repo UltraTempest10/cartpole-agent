@@ -21,7 +21,7 @@ epsilon = 0  # greedy factor, 0 means no exploration
 epsilon_min = 0  # minimum epsilon
 epsilon_decay = 0  # decay rate of epsilon
 target_update = 0xFFFFFFFF  # update frequency of the target network, no need to update
-path = 'models/trained_model.pth'  # path to the trained model
+path = 'model/trained_model.pth'  # path to the trained model
 
 agent = DQN(n_states=n_states,
             n_hidden=n_hidden,
