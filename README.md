@@ -1,6 +1,6 @@
-# CartPort Agent
+# CartPole Agent
 
-A DQN agent trained for the CartPort game in the OpenAI gym environment. See the game [here](https://gymnasium.farama.org/environments/classic_control/cart_pole/).
+A DQN agent trained for the CartPole game in the OpenAI gym environment. See the game [here](https://gymnasium.farama.org/environments/classic_control/cart_pole/).
 
 ![Play](image/play.gif)
 ![Returns](image/DQN_Returns.png)
